@@ -1,0 +1,5 @@
+# From a local build
+docker run -it --rm --name mymockedpp -p5000:5000 mockedpp
+
+# From the Docker Hub
+docker run -it --rm --name mymockedpp -p5000:5000 jamesasher/mockedpp

@@ -1,0 +1,29 @@
+{
+    "PersonName": {
+        "Common": "Sunni Alberto",
+        "First": "Sunni",
+        "Middle": "",
+        "Last": "Alberto",
+        "TitlePrefix": "",
+        "Suffix": "",
+        "Legal": "",
+        "Salutation": ""
+    },
+    "Address": {
+        "Street1": "631 Canova Drive",
+        "Street2": "",
+        "Street3": "",
+        "City": "Charlotte",
+        "StateProvince": "NC",
+        "CountryType": "282540000",
+        "PostalCode": ""
+    },
+    "DataDictionaryName": "",
+    "DataDictionaryVersion": "",
+    "DictionaryData": [
+        {
+            "DataName": "",
+            "DataValue": ""
+        }
+    ]
+}

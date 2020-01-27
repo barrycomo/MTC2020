@@ -1,0 +1,29 @@
+{
+    "PersonName": {
+        "Common": "Jamie Andries",
+        "First": "Jamie",
+        "Middle": "",
+        "Last": "Andries",
+        "TitlePrefix": "",
+        "Suffix": "",
+        "Legal": "",
+        "Salutation": ""
+    },
+    "Address": {
+        "Street1": "354 Pergande Court",
+        "Street2": "",
+        "Street3": "",
+        "City": "Hasbrouck Heights",
+        "StateProvince": "NJ",
+        "CountryType": "076040000",
+        "PostalCode": ""
+    },
+    "DataDictionaryName": "",
+    "DataDictionaryVersion": "",
+    "DictionaryData": [
+        {
+            "DataName": "",
+            "DataValue": ""
+        }
+    ]
+}

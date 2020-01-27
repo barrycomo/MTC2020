@@ -1,0 +1,14 @@
+{
+    "MessageStatuses": [
+      {
+        "Code": "string",
+        "Category": "string",
+        "Description": "string",
+        "Element": "string",
+        "ElementValue": "string",
+        "Location": "string"
+      }
+    ],
+    "ProductVersion": "2020.0.1.0",
+    "InternalVersion": "2020.0.1.0"
+  }

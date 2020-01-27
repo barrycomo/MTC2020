@@ -1,0 +1,29 @@
+{
+    "PersonName": {
+        "Common": "Simona Andries",
+        "First": "Simona",
+        "Middle": "",
+        "Last": "Andries",
+        "TitlePrefix": "",
+        "Suffix": "",
+        "Legal": "",
+        "Salutation": ""
+    },
+    "Address": {
+        "Street1": "931 Vandevoorde Road",
+        "Street2": "",
+        "Street3": "",
+        "City": "Washoe Valley",
+        "StateProvince": "NV",
+        "CountryType": "897040000",
+        "PostalCode": ""
+    },
+    "DataDictionaryName": "",
+    "DataDictionaryVersion": "",
+    "DictionaryData": [
+        {
+            "DataName": "",
+            "DataValue": ""
+        }
+    ]
+}

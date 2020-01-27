@@ -1,0 +1,29 @@
+{
+    "PersonName": {
+        "Common": "Clifton Andries",
+        "First": "Clifton",
+        "Middle": "",
+        "Last": "Andries",
+        "TitlePrefix": "",
+        "Suffix": "",
+        "Legal": "",
+        "Salutation": ""
+    },
+    "Address": {
+        "Street1": "792 Belli Avenue",
+        "Street2": "",
+        "Street3": "",
+        "City": "Mullens",
+        "StateProvince": "WV",
+        "CountryType": "258820000",
+        "PostalCode": ""
+    },
+    "DataDictionaryName": "",
+    "DataDictionaryVersion": "",
+    "DictionaryData": [
+        {
+            "DataName": "",
+            "DataValue": ""
+        }
+    ]
+}

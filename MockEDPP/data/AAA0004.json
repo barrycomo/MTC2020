@@ -1,0 +1,29 @@
+{
+    "PersonName": {
+        "Common": "Cole Arellanes",
+        "First": "Cole",
+        "Middle": "",
+        "Last": "Arellanes",
+        "TitlePrefix": "",
+        "Suffix": "",
+        "Legal": "",
+        "Salutation": ""
+    },
+    "Address": {
+        "Street1": "866 Campo Avenue",
+        "Street2": "",
+        "Street3": "",
+        "City": "Lockesburg",
+        "StateProvince": "AR",
+        "CountryType": "718460000",
+        "PostalCode": ""
+    },
+    "DataDictionaryName": "",
+    "DataDictionaryVersion": "",
+    "DictionaryData": [
+        {
+            "DataName": "",
+            "DataValue": ""
+        }
+    ]
+}
